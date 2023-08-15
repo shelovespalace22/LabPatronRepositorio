@@ -23,6 +23,7 @@ namespace CompanyEmployees.Presentation.Controllers
             //throw new Exception("Exception");
             
             var companies = _service.CompanyService.GetAllCompanies(trackChanges: false);
+
             return Ok(companies);
             
         }

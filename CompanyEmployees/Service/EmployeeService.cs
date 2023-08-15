@@ -25,19 +25,13 @@ namespace Service
 
         public IEnumerable<EmployeeDto> GetAllEmployees(bool trackChanges)
         {
-            try
-            {
-                var employees = _repository.Employee.GetAllEmployees(trackChanges);
 
-                var employeesDto = employees.Select(e => new EmployeeDto(e.Id, e.Name, e.Age, e.Position, e.CompanyId));
+            var employees = _repository.Employee.GetAllEmployees(trackChanges);
 
-                return employeesDto;
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError($"Something went wrong in the {nameof(GetAllEmployees)} service method {ex}");
-                throw;
-            }
+            var employeesDto = employees.Select(e => new EmployeeDto(e.Id, e.Name, e.Age, e.Position, e.CompanyId));
+
+            return employeesDto;
+     
         }
     }
 }
