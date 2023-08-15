@@ -313,6 +313,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              },
               "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Entities\\Entities.csproj"
               }
