@@ -85,3 +85,9 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmpl
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.pdb
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.genruntimeconfig.cache
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\ref\CompanyEmployees.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.pdb
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb

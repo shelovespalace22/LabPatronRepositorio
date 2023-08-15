@@ -40,4 +40,4 @@ namespace Repository
         => RepositoryContext.Set<T>().Update(entity);
     }
 }
-}
+
