@@ -10,3 +10,15 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Entities\ob
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Entities\obj\Debug\net7.0\refint\Entities.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.pdb
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Entities\obj\Debug\net7.0\ref\Entities.dll

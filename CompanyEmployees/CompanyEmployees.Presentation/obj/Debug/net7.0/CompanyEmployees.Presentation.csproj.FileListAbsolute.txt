@@ -15,3 +15,20 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmpl
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\refint\CompanyEmployees.Presentation.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.pdb
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\ref\CompanyEmployees.Presentation.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\CompanyEmployees.Presentation.deps.json
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\Service.Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\Shared.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net7.0\Shared.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.AssemblyInfo.cs
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.csproj.CopyComplete
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\refint\CompanyEmployees.Presentation.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net7.0\ref\CompanyEmployees.Presentation.dll

@@ -1,4 +1,5 @@
 using CompanyEmployees.Extensions;
+using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -29,17 +30,28 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-        app.UseDeveloperExceptionPage();
-else 
-        app.UseHsts();
+var logger = app.Services.GetRequiredService<ILoggerManager>();
+app.ConfigureExceptionHandler(logger);
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+if (app.Environment.IsProduction())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseHsts();
 }
+
+   
+
+
+//if (app.Environment.IsDevelopment())
+//        app.UseDeveloperExceptionPage();
+//else 
+//        app.UseHsts();
+
+//// Configure the HTTP request pipeline.
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
 
 app.UseHttpsRedirection();
 
@@ -59,59 +71,59 @@ app.UseAuthorization();
 //    await context.Response.WriteAsync("Hello from the middleware component."); 
 //});
 
-app.Use(async (context, next) => {
+//app.Use(async (context, next) => {
 
-    Console.WriteLine($"Logic before executing the next delegate in the Use method");
+//    Console.WriteLine($"Logic before executing the next delegate in the Use method");
 
-    await next.Invoke();
+//    await next.Invoke();
 
-    Console.WriteLine($"Logic after executing the next delegate in the Use method");
+//    Console.WriteLine($"Logic after executing the next delegate in the Use method");
 
-});
+//});
 
-app.Map("/usingmapbranch", builder => {
+//app.Map("/usingmapbranch", builder => {
 
-    builder.Use(async (context, next) =>
-    {
-        Console.WriteLine("Map branch logic in the Use method before the next delegate");
+//    builder.Use(async (context, next) =>
+//    {
+//        Console.WriteLine("Map branch logic in the Use method before the next delegate");
 
-        await next.Invoke(); 
+//        await next.Invoke(); 
         
-        Console.WriteLine("Map branch logic in the Use method after the next delegate");
+//        Console.WriteLine("Map branch logic in the Use method after the next delegate");
 
-    });
+//    });
 
-    builder.Run(async context => {
+//    builder.Run(async context => {
 
-        Console.WriteLine($"Map branch response to the client in the Run method");
+//        Console.WriteLine($"Map branch response to the client in the Run method");
 
-        await context.Response.WriteAsync("Hello from the map branch.");
+//        await context.Response.WriteAsync("Hello from the map branch.");
 
-    });
+//    });
 
-});
+//});
 
-app.MapWhen(context => 
+//app.MapWhen(context => 
 
-    context.Request.Query.ContainsKey("testquerystring"), builder => 
-    {
+//    context.Request.Query.ContainsKey("testquerystring"), builder => 
+//    {
 
-        builder.Run(async context => 
-        {
+//        builder.Run(async context => 
+//        {
 
-            await context.Response.WriteAsync("Hello from the MapWhen branch.");
+//            await context.Response.WriteAsync("Hello from the MapWhen branch.");
 
-    });
+//    });
 
-});
+//});
 
-app.Run(async context => {
+//app.Run(async context => {
 
-    Console.WriteLine($"Writing the response to the client in the Run method");
+//    Console.WriteLine($"Writing the response to the client in the Run method");
 
-    await context.Response.WriteAsync("Hello from the middleware component.");
+//    await context.Response.WriteAsync("Hello from the middleware component.");
 
-});
+//});
 
 app.MapControllers();
 

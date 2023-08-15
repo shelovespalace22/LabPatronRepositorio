@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Service
-build_property.ProjectDir = F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Service\
+build_property.ProjectDir = C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service\

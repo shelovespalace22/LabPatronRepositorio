@@ -4827,23 +4827,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MI PC\\.nuget\\packages\\": {},
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
       "projectName": "CompanyEmployees",
-      "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
-      "packagesPath": "C:\\Users\\MI PC\\.nuget\\packages\\",
-      "outputPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\CompanyEmployees\\obj\\",
+      "projectPath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4852,24 +4852,25 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.307\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
-              "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
+            "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+              "projectPath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
             },
-            "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+            "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
             },
-            "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Repository\\Repository.csproj": {
-              "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Repository\\Repository.csproj"
+            "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Repository\\Repository.csproj"
             },
-            "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Service\\Service.csproj": {
-              "projectPath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Service\\Service.csproj"
+            "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Service\\Service.csproj": {
+              "projectPath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Service\\Service.csproj"
             }
           }
         }
@@ -4926,7 +4927,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

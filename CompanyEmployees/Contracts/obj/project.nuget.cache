@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yKrI8ZPyE70OmUNB+mc8fg+xubk89yyiJsLZdqTHvszEFy+HfuBCghl22yAlmDhf4jauj4/NrdBMZlNQdYw3TQ==",
+  "dgSpecHash": "ANdmcp3A079602z9HqgLewUgzNkSK2xty5YAYKKAkzcG2pdyA1rdyoM2FhvPqnyE7/qiGvKr9iP5+rTqxmKQiQ==",
   "success": true,
-  "projectFilePath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Contracts\\Contracts.csproj",
+  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

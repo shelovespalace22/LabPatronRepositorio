@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FgulmK+2Kzyg6ewN2t4CWZmoA5+gu/tSA8C3M+mGF6KesFeubpJ9b8yjc/n1Yu4Kmt+jTrZzskND2pWaPS5Sng==",
+  "dgSpecHash": "IAqgL7V9brw19K5qLjXaM5VhWXtlT9gkySYXPk586fqwfjcJ1VGHRdF94V4PLkTzW3pbnR96DDbRi9zeA43ing==",
   "success": true,
-  "projectFilePath": "F:\\Miguel\\SENA\\V Trimestre\\Vladi\\Patron Repositorio\\CompanyEmployees\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
