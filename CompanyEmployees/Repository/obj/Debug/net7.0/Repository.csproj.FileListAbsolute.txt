@@ -13,3 +13,5 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\obj\Debug\net7.0\refint\Repository.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.pdb
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb

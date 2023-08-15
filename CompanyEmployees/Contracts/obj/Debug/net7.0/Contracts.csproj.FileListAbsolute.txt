@@ -10,3 +10,6 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\o
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\obj\Debug\net7.0\refint\Contracts.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.pdb
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\bin\Debug\net7.0\Entities.dll
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\bin\Debug\net7.0\Entities.pdb
+F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
