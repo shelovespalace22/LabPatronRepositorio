@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
 using Contracts;
+using Entities.Exceptions;
+using Entities.Models;
 using Service.Contracts;
 using Shared.DataTransferObjects;
 
@@ -32,6 +34,20 @@ namespace Service
 
             return employeesDto;
      
+        }
+
+        public EmployeeDto GetEmployee(Guid employeeId, bool trackChanges)
+        {
+            var employee = _repository.Employee.GetEmployee(employeeId, trackChanges);
+            //Check if the company is null
+
+            if (employee is null)
+
+                throw new CompanyNotFoundException(employeeId);
+
+            var employeeDto = _mapper.Map<EmployeeDto>(employee);
+
+            return employeeDto;
         }
     }
 }
