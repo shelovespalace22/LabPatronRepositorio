@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JEP9APwy9cNu7m31SJQ6hZZAcEj89B96uhcQMzaLVY/ktixnzNxGzTYlfWdBaD4SrnI5tfxNOekNXf+6jvdTVg==",
+  "dgSpecHash": "BRvqNxJ50WaboRHRSLqUh4Itp+OAxvswKP27AFt53gQNr/s1plez4VvR0CO6G8M6J1N09xb2jg0Z67HhmET4bg==",
   "success": true,
-  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\GitHub\\LabPatronRepositorio\\CompanyEmployees\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aprendiz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Aprendiz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4i89ySErJHDPCc2XRy5WWiiV6mg7WsZf+yNOSsDir/8GjKlc0pcsSC9ll1mErnLn8VP4WwbuKXKWODK7Ry6aiQ==",
+  "dgSpecHash": "vZB9BXv/I+wbHWoVU9IRwDJAOdrhGx5P7+YOlB078tnvozSVQY2Cs5fSfMuv6gl3w7vDNYD0DjG1SObLfet7Lw==",
   "success": true,
-  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\GitHub\\LabPatronRepositorio\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IAqgL7V9brw19K5qLjXaM5VhWXtlT9gkySYXPk586fqwfjcJ1VGHRdF94V4PLkTzW3pbnR96DDbRi9zeA43ing==",
+  "dgSpecHash": "YdnVkWmvZi9Yv/CTCiBrSSfTg0X0TxSqf4gu8umVTbsej3h7F9dqNNBMkf5GvKMZD9vdZ1erPEJUy9DTHz6yyw==",
   "success": true,
-  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\GitHub\\LabPatronRepositorio\\CompanyEmployees\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

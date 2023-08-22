@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EL5hCNMfkc+ueJRj+h084waf3+CdpPTEApcg7DN1QZJd0ECznnzQT15c0+3/YnYbTFUvxm4KmOXi2pcY59GE3g==",
+  "dgSpecHash": "GYZwjLQ23EJ5Dxvwh7UF9yI/gU69JDMdUg6cyu9UbYeIRPX9wayAU6EFMU6UoT21D7N5PDgnGbY1Ws2HUK7CQg==",
   "success": true,
-  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\GitHub\\LabPatronRepositorio\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

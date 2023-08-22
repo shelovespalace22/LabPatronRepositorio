@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ANdmcp3A079602z9HqgLewUgzNkSK2xty5YAYKKAkzcG2pdyA1rdyoM2FhvPqnyE7/qiGvKr9iP5+rTqxmKQiQ==",
+  "dgSpecHash": "QcD1FXaYJHkNnlz4j12m8NaWTwNzu9O+avH5nsw9P1QxkVQ97ZUEZZ9EcqMqM1DvCzQGfP9gC+v4YRO7HkeC+g==",
   "success": true,
-  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Contracts\\Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\GitHub\\LabPatronRepositorio\\CompanyEmployees\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

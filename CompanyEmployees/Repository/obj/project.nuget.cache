@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uOHN2ZeY1CYIZIL+dEUyvb8FtExcHD1cXggW27NtTOFw2pad03e73+kKdN5gjdNdmHzIKaUg/zOmryFPJzyX4A==",
+  "dgSpecHash": "qzakTbhf0XfKXVhl3tO4bWp9OyxhesHhq6SOrER3grsAkp1SvHEJUcbOUAEcmI1A8HqKWFRA5F5/kO5cUYLc6A==",
   "success": true,
-  "projectFilePath": "C:\\Lab01API_REST\\LabPatronRepositorio\\CompanyEmployees\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\Aprendiz\\Documents\\GitHub\\LabPatronRepositorio\\CompanyEmployees\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
