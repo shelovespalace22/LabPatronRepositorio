@@ -44,5 +44,15 @@ namespace CompanyEmployees.Presentation.Controllers
                 
             return Ok(employees);
         }
+
+        [HttpGet("{id:guid}")]
+        public IActionResult GetEmployeeForCompany(Guid companyId, Guid id)
+        {
+            var employee = _service.EmployeeService.GetEmployee(companyId, id, trackChanges: false);
+
+            return Ok(employee);
+
+                
+        }
     }
 }
