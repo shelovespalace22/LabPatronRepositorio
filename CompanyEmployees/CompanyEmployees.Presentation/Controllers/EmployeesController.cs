@@ -8,7 +8,9 @@ using Service.Contracts;
 
 namespace CompanyEmployees.Presentation.Controllers
 {
-    [Route("api/employees")]
+    
+    //[Route("api/employees")]
+    [Route("api/companies/{companyId}/employees")]
     [ApiController]
     public class EmployeesController : ControllerBase
     {
@@ -17,19 +19,40 @@ namespace CompanyEmployees.Presentation.Controllers
         public EmployeesController(IServiceManager service) =>
             _service = service;
 
+        //[HttpGet]
+        //public IActionResult GetEmployees()
+        //{
+
+        //    var employees = _service.EmployeeService.GetAllEmployees(trackChanges: false);
+
+        //    return Ok(employees);
+
+        //}
+
+        //[HttpGet("{id:guid}")]
+        //public IActionResult GetEmployee(Guid id)
+        //{
+        //    var employee = _service.EmployeeService.GetEmployee(id, trackChanges: false);
+
+        //    return Ok(employee);
+        //}
+
         [HttpGet]
-        public IActionResult GetEmployees()
+        public IActionResult GetEmployeesForCompany(Guid companyId)
         {
-            try
-            {
-                var employees =
-                _service.EmployeeService.GetAllEmployees(trackChanges: false);
-                return Ok(employees);
-            }
-            catch
-            {
-                return StatusCode(500, "Internal server error");
-            }
+            var employees = _service.EmployeeService.GetEmployees(companyId, trackChanges: false);
+                
+            return Ok(employees);
+        }
+
+        [HttpGet("{id:guid}")]
+        public IActionResult GetEmployeeForCompany(Guid companyId, Guid id)
+        {
+            var employee = _service.EmployeeService.GetEmployee(companyId, id, trackChanges: false);
+
+            return Ok(employee);
+
+                
         }
     }
 }

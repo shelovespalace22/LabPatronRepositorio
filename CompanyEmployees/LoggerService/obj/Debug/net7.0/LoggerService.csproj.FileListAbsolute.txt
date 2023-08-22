@@ -15,3 +15,37 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\LoggerServi
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Contracts.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Contracts.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll

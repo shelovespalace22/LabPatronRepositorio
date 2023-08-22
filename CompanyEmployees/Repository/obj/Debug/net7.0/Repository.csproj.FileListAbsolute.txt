@@ -15,3 +15,37 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Entities.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Entities.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Entities.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\bin\Debug\net7.0\Entities.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll

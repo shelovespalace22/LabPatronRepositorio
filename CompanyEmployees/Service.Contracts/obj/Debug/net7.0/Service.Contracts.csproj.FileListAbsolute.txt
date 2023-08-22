@@ -13,3 +13,33 @@ F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Service.Con
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
 F:\Miguel\SENA\V Trimestre\Vladi\Patron Repositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.deps.json
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfo.cs
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CopyComplete
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
+C:\Lab01API_REST\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.deps.json
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\bin\Debug\net7.0\Shared.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CopyComplete
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
+C:\Users\Aprendiz\Documents\GitHub\LabPatronRepositorio\CompanyEmployees\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
