@@ -11,6 +11,9 @@ namespace Contracts
     {
         IEnumerable<Employee> GetAllEmployees(bool trackChanges);
 
-        Employee GetEmployee(Guid employeeId, bool trackChanges);
+        //Employee GetEmployee(Guid employeeId, bool trackChanges);
+
+        IEnumerable<Employee> GetEmployees(Guid companyId, bool trackChanges);
+
     }
 }

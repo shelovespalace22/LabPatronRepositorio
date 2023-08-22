@@ -25,29 +25,45 @@ namespace Service
             _mapper = mapper;
         }
 
-        public IEnumerable<EmployeeDto> GetAllEmployees(bool trackChanges)
+        public IEnumerable<EmployeeDto> GetEmployees(Guid companyId, bool trackChanges)
         {
+            var company = _repository.Company.GetCompany(companyId, trackChanges);
 
-            var employees = _repository.Employee.GetAllEmployees(trackChanges);
+            if (company is null)
+                throw new CompanyNotFoundException(companyId);
 
-            var employeesDto = employees.Select(e => new EmployeeDto(e.Id, e.Name, e.Age, e.Position, e.CompanyId));
+            var employeesFromDb = _repository.Employee.GetEmployees(companyId,
+                trackChanges);
+
+            var employeesDto = _mapper.Map<IEnumerable<EmployeeDto>>(employeesFromDb);
 
             return employeesDto;
-     
         }
 
-        public EmployeeDto GetEmployee(Guid employeeId, bool trackChanges)
-        {
-            var employee = _repository.Employee.GetEmployee(employeeId, trackChanges);
-            //Check if the company is null
 
-            if (employee is null)
+        //public IEnumerable<EmployeeDto> GetAllEmployees(bool trackChanges)
+        //{
 
-                throw new CompanyNotFoundException(employeeId);
+        //    var employees = _repository.Employee.GetAllEmployees(trackChanges);
 
-            var employeeDto = _mapper.Map<EmployeeDto>(employee);
+        //    var employeesDto = employees.Select(e => new EmployeeDto(e.Id, e.Name, e.Age, e.Position, e.CompanyId));
 
-            return employeeDto;
-        }
+        //    return employeesDto;
+
+        //}
+
+        //public EmployeeDto GetEmployee(Guid employeeId, bool trackChanges)
+        //{
+        //    var employee = _repository.Employee.GetEmployee(employeeId, trackChanges);
+        //    //Check if the company is null
+
+        //    if (employee is null)
+
+        //        throw new CompanyNotFoundException(employeeId);
+
+        //    var employeeDto = _mapper.Map<EmployeeDto>(employee);
+
+        //    return employeeDto;
+        //}
     }
 }
